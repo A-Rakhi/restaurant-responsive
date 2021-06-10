@@ -1,0 +1,21 @@
+.seeAll{
+    color: #333333;
+    border:1px solid gray;
+    padding: 8px 35px;
+    float: right;
+    margin-right: 30px;
+}
+.card-pic{
+    width: 95%;
+    height: 220px;
+}
+.c-text{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
+.text-muted{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+}

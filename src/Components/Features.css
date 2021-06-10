@@ -1,0 +1,39 @@
+.feature-section{
+    padding-top: 100px;
+}
+.img-card1{
+    background-image: url('../images/feat1.png');
+    height: 288px;
+    /* width: 354px!important; */
+}
+.img-card2{
+    background-image: url('../images/f2.png');
+    height: 288px;
+    /* width: 354px!important; */
+}
+.img-card3{
+    background-image: url('../images/f3.png');
+    height: 288px;
+    /* width: 354px!important; */
+}
+.round-box{
+    background-color: #2B3A41;
+    border-radius: 50%;
+    padding: 24px 18px;
+    float: right;
+    margin: 220px 33px 0px 0
+    
+}
+.card-title{
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'DM Sans', sans-serif;
+    color: #333333;
+}
+
+.card-text{
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'DM Sans', sans-serif;
+    color: grey;
+}

@@ -1,0 +1,32 @@
+
+.dateBook{  
+    color: #FFFFFF;
+    font-family: 'Bodoni Moda', serif;
+    font-size: 40px;
+    top: -165px;
+    left: 110px;
+    position: relative;
+}
+.pins{
+    text-align: center;
+    justify-content: center;
+}
+.cName{
+    font-family: 'Bodoni Moda', serif;
+    font-size: 24px;
+}
+.img-card{
+    width: 350px;
+}
+.c-title{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
+
+.cart-text{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    color: rgba(165, 161, 161, 0.993);
+}
